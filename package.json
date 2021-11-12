@@ -1,0 +1,15 @@
+{
+  "name": "edit-nested-object",
+  "version": "1.0.0",
+  "description": "Edit a object with indexes like \"name.first\" etc.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "edit",
+    "object"
+  ],
+  "author": "Shisui",
+  "license": "MIT"
+}
