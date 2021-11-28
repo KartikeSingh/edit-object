@@ -2,7 +2,8 @@
   "name": "edit-nested-object",
   "version": "1.0.1",
   "description": "Edit a object with indexes like \"name.first\" etc.",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
+  "typings": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
