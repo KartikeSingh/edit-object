@@ -1,4 +1,4 @@
-export default function editObject(object: indexable, key: string, value: any, force = false): Object {
+export default function editObject(object: indexable, key: string | symbol, value: any, force = false): Object {
     if (!key || typeof (key) !== "string") throw new Error("Key should be a non empty string.");
 
     const keys: string[] = key.split(".");
