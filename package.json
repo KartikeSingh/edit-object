@@ -1,6 +1,6 @@
 {
   "name": "edit-nested-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Edit a object with indexes like \"name.first\" etc.",
   "main": "src/index.ts",
   "scripts": {
