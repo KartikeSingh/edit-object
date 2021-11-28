@@ -1,6 +1,6 @@
 # Installations
 ```
-npm i edit-object
+npm i edit-nested-object
 ```
 
 # What ?
@@ -8,7 +8,7 @@ With this module you can edit nested object with keys like "name.first" etc
 
 # How ?
 ```js
-const editObject = require('edit-object');
+const editObject = require('edit-nested-object');
 
 // import editObject from "./" // for typescript
 
